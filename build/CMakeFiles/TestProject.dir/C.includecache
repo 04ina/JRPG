@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/o4ina/Desktop/CSFMLProject/Program1/src/Main.c
+SFML/Graphics.h
+-
+SFML/OpenGL.h
+-
+stdio.h
+-
+time.h
+-
+math.h
+-
+stdlib.h
+-
+SFML/Graphics.h
+-
+SFML/OpenGL.h
+-
+

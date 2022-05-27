@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/TestProject.dir/src/Main.c.o  -o TestProject  -lm -lcsfml-system -lcsfml-window -lcsfml-graphics -lcsfml-audio -lcsfml-network /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libGLU.so 
